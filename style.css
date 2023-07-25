@@ -98,10 +98,36 @@ nav a {
 
 }
 
+
 .about {
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin-top: 130px ;
+    margin-top: 130px;
+
+
+}
+
+main {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.about-info-containar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: #757575;
+}
+.info-title{
+    font-weight: 500;
+}
+
+.discription {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -15px;
+    
 
 }
